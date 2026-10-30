@@ -12,6 +12,12 @@
 | University | University of Science – VNU-HCM |
 | Course | Computational Thinking |
 
+## GitHub Repository
+
+The complete source code is available at:
+
+https://github.com/Lmtri2311/Lab2-FastAPI-Sentiment-Analysis
+
 ## 2. Project Overview
 
 This project implements an AI-powered Sentiment Analysis API using **FastAPI** and a pretrained **DistilBERT model from Hugging Face**.
@@ -96,7 +102,7 @@ lab2_FastAPI/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone [YOUR GITHUB REPOSITORY URL]
+git clone https://github.com/Lmtri2311/Lab2-FastAPI-Sentiment-Analysis.git
 cd lab2_FastAPI
 ```
 
