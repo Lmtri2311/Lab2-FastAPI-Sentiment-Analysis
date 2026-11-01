@@ -12,11 +12,22 @@
 | University | University of Science – VNU-HCM |
 | Course | Computational Thinking |
 
-## GitHub Repository
+### GitHub Repository
 
-The complete source code is available at:
+The complete source code is available at: https://github.com/Lmtri2311/Lab2-FastAPI-Sentiment-Analysis
 
-https://github.com/Lmtri2311/Lab2-FastAPI-Sentiment-Analysis
+### Demonstration Video
+
+The demonstration video presents:
+
+1. Introduction to the selected Hugging Face model.
+2. Explanation of the project source code structure.
+3. Instructions for running the FastAPI application.
+4. API testing with positive and negative sentiment inputs.
+5. Explanation of prediction results and input validation.
+
+**Demonstration Video Link:**
+https://drive.google.com/file/d/1DKd__Cr2NUdsZ0n97MZ1hfo8ozy92oba/view?usp=sharing
 
 ## 2. Project Overview
 
@@ -384,25 +395,7 @@ All API tests passed!
 
 All seven API test cases passed successfully during local development.
 
-## 12. Demonstration Video
-
-The demonstration video presents:
-
-1. Introduction to the selected Hugging Face model.
-2. Explanation of the project source code structure.
-3. Instructions for running the FastAPI application.
-4. API testing with positive and negative sentiment inputs.
-5. Explanation of prediction results and input validation.
-
-**Video Duration:** Maximum 5 minutes.
-
-**Demonstration Video Link:**
-
-[INSERT YOUR YOUTUBE OR GOOGLE DRIVE VIDEO LINK HERE]
-
-The video will be publicly accessible or available to anyone with the shared link.
-
-## 13. Limitations
+## 12. Limitations
 
 - The selected model primarily supports English text.
 - The model only predicts positive or negative sentiment.
@@ -410,7 +403,7 @@ The video will be publicly accessible or available to anyone with the shared lin
 - The model may produce incorrect predictions for ambiguous, sarcastic, or context-dependent text.
 - Model inference performance depends on the local hardware.
 
-## 14. Conclusion
+## 13. Conclusion
 
 This project demonstrates how to integrate a pretrained Hugging Face model into a functional Web API using FastAPI.
 
